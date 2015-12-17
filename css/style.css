@@ -1289,6 +1289,12 @@ footer:after {
 		padding: 73px 0;
 	}
 
+	.fieldcontainer4 {
+		display: flex;
+	}
+	.likert-alternative-unordered-list {
+		list-style: none !important;
+	}
 
 /* #Font-Face
 ================================================== */
