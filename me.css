@@ -12,3 +12,7 @@ body {
 {
 	font-weight: bolder !important;
 }
+
+.fieldcontainer {
+	margin: 1em 0 !important;
+}
