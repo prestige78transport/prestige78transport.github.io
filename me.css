@@ -2,3 +2,10 @@ html {
 	background-color: #ebebeb !important;
 	color: #29292b !important;
 }
+
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
