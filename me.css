@@ -1,23 +1,6 @@
-html {
-	background-color: #ebebeb !important;
-	color: #29292b !important;
-}
-
-body {
-	padding-top: 5vh;
-	line-height: 2em;
-}
-
-#id123-title16034332 .label-text .label-cont
-{
-	font-weight: bolder !important;
-}
-
-.fieldcontainer {
-	margin: 1em 0 !important;
-}
-
 iframe {
 	width: 100vw;
 	height: 100vh;
+	background-color: #ebebeb !important;
+	color: #29292b !important;
 }
