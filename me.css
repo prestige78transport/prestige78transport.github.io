@@ -1,6 +1,9 @@
 body {
     margin: 0;
 }
+.freebirdFormviewerViewNavigationPasswordWarning {
+	display: none;
+}
 
 iframe {
 	width: 100vw;
