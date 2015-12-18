@@ -7,3 +7,8 @@ body {
 	padding-top: 5vh;
 	line-height: 2em;
 }
+
+.label-cont
+{
+	font-weight: bold !important;
+}
