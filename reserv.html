@@ -13,12 +13,14 @@
 	<script type="text/javascript">
 		$(function(){
 			var f=$('.freebirdFormviewerViewNavigationPasswordWarning');
+			 f.contents().find('#anID,.someClass,.someOtherClass').hide(); 
 			var ff=$('.freebirdDisclaimerColor');
 			var fff=$('.freebirdFormviewerViewFooterImageContainer img');
 			f.hide(); 
 			ff.hide();
 			f.load(function(){ 
 				f.hide(); 
+				 f.contents().find('#anID,.someClass,.someOtherClass').hide(); 
 			})
 			ff.load(function(){ 
 				f.hide(); 
